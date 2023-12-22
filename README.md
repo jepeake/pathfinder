@@ -1,16 +1,16 @@
-# Autonomous Pathfinding Robot
+# _Autonomous Pathfinding Robot_
 
-This repository contains the Autonomous Pathfinding Robot produced as a Group Project as part of the coursework for the 2nd Year Electronic & Information Engineering Course. This was completed in Summer 2023.
+_This repository contains the Autonomous Pathfinding Robot produced as a Group Project as part of the coursework for the 2nd Year Electronic & Information Engineering Course. This was completed in Summer 2023._
 
-### Contributors
-Jacob Peake (jacob.peake21@imperial.ac.uk)  
+### _Contributors_
+_Jacob Peake (jacob.peake21@imperial.ac.uk)_
 
-Kush Kothari (kush.kothari21@imperial.ac.uk)
+_Kush Kothari (kush.kothari21@imperial.ac.uk)_
 
-Gobeeshan Varatharajah (gobeeshan.varatharajah21@imperial.ac.uk)
+_Gobeeshan Varatharajah (gobeeshan.varatharajah21@imperial.ac.uk)_
 
-Yash Belur (yash.belur21@imperial.ac.uk)
+_Yash Belur (yash.belur21@imperial.ac.uk)_
 
-Krishaan Surendran (krishaan.surendran21@imperial.ac.uk)
+_Krishaan Surendran (krishaan.surendran21@imperial.ac.uk)_
 
-Irene Palaonda (irene.palaonda20@imperial.ac.uk)
+_Irene Palaonda (irene.palaonda20@imperial.ac.uk)_
